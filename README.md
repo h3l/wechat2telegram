@@ -1,7 +1,10 @@
-转发微信文字信息，图片到telegrame
+## install
+pip install -r reqirements.txt
 
-依赖见requirements.txt
 python 环境 3.5.2
 
-run
+修改tg.py中的配置
+
+## run
 python tg.py
+
